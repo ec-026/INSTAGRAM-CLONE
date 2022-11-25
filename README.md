@@ -1,9 +1,79 @@
-# Getting Started with Create React App
-## The Project is under progess..
+# INSTAGRAM-CLONE
+<img width="955" alt="Screenshot 2022-11-25 055302" src="https://user-images.githubusercontent.com/95495584/203877986-fb3eb76f-5316-4e67-a523-0d80cadb42ab.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+
+
+
+### Tech Stack
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://#/">Javascript</a></li>
+  <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://styled-components.com">Styled Components</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+   <li><a href="https://firebase.google.com">Firebase</a></li>
+  </ul>
+</details>
+
+<br />
+
+<table>
+    <tr>
+        <td>
+<a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="40" height="40" /></a>
+        </td>
+                        <td>
+<a href="#instagram"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Instagram" width="40" height="40" /></a>
+        </td>
+                        <td>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="Google" width="40" height="40" /></a>
+        </td>
+                        <td>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="Google" width="40" height="40" /></a>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="20" height="20" /></a>
+        </td>
+                <td>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180461713-76c02155-35f5-497e-b3a3-364fec13da39.png" alt="Google" width="20" height="20" /></a>
+        </td>
+                        <td>
+<a href="#github"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="20" height="20" /></a>
+        </td>
+                        <td>
+<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="20" height="20" /></a>
+        </td>
+                        <td>
+<a href="#github"><img src="https://user-images.githubusercontent.com/99184393/180460354-efcdd581-df6f-4f09-b981-7e910bae5696.png" alt="GitHub" width="30" height="30" /></a>
+        </td>
+    </tr>
+</table>
+
+
+<br />
+
+## 	:toolbox: Getting Started
+
+### :bangbang: Prerequisites
+- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+
+### :gear: Installation
 
 In the project directory, you can run:
 
@@ -39,33 +109,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
